@@ -1,2 +1,2 @@
-# openware-bush
+# openware-bash
 Task 2
